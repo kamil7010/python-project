@@ -1,0 +1,7 @@
+26-03-28 16:24:18 - kamil
+{
+    name:kamil,
+    age: 22,
+    course:mba
+    regno:01
+}

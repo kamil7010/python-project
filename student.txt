@@ -1,0 +1,3 @@
+kamil, 22, mba, 01
+kamil,  22,  mba,  01
+kamil, 23, b.com, 2
